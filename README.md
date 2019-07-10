@@ -1,1 +1,1 @@
-You can send bulk email via smtp.If you do not understand the process after successful instalation 
+You can send bulk email via smtp.If you do not understand the process after successful instalation please contact me : https://www.mahamudhasan23.com/
