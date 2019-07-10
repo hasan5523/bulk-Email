@@ -1,0 +1,1 @@
+You can send bulk email via smtp.If you do not understand the process after successful instalation 
